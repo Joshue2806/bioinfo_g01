@@ -4,6 +4,8 @@ Repositorio de práctica, repaso y tareas de Bioinformática G01 en Ikiam. Estud
 ## Presentaciones
 
 ## Clases
+  - Clases en la página de youtube:
+    https://www.youtube.com/playlist?list=PLdBCqyJM7Y73hfUh9ofszFa7LlpburahS
 
 ## Participantes
 
