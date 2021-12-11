@@ -26,4 +26,4 @@ $ bash netsize_all.sh
 ...
 ```
 
-[^18]: 18. Este ejercicio requiere escribir un bucle dentro de un guión..
+[^18]: Este ejercicio requiere escribir un bucle dentro de un guión.
