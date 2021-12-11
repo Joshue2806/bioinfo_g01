@@ -14,6 +14,7 @@ Filename: ../data/Saavedra2013/n1.txt
 Number of rows: 97
 Number of columns: 80
 ```
+**Esto se encuentra en el archivo *netsize.sh* **
 
 2. [Avanzado][^18] Escriba un guión que imprima el número de filas y columnas para cada red:
 
@@ -25,5 +26,6 @@ $ bash netsize_all.sh
 ../data/Saavedra2013/n13.txt 61 17
 ...
 ```
+**Esto se encuentra en el archivo *netsize_all.sh* **
 
 [^18]: Este ejercicio requiere escribir un bucle dentro de un guión.
