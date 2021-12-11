@@ -2,7 +2,7 @@
 Repositorio de práctica, repaso y tareas de Bioinformática G01 en Ikiam. Estudiante: Joshué Ruiz
 
 ## Tareas
-- Ingresa la tarea 1 aquí -> [Tarea 1](https://github.com/Joshue2806/bioinfo_g01/tree/main/tarea1)
+- Ingresa a la tarea 1 aquí -> [Tarea 1](https://github.com/Joshue2806/bioinfo_g01/tree/main/tarea1)
 
 ## Clases
 - Clases en la página de youtube:
