@@ -11,3 +11,5 @@ https://github.com/Joshue2806/bioinfo_g01/tree/main/tarea1
 
 ## Info adicional
   -  Información será añadida después :shipit: :+1:  
+
+¯\_( • ͜ʖ • )_/¯
