@@ -13,8 +13,4 @@ Repositorio de práctica, repaso y tareas de Bioinformática G01 en Ikiam. Estud
 
 ¯\_( • ͜ʖ • )_/¯
 
-▒▒▄▀▀▀▀▀▄▒▒▒▒▒▄▄▄▄▄▒▒▒
-▒▐░▄░░░▄░▌▒▒▄█▄█▄█▄█▄▒
-▒▐░▀▀░▀▀░▌▒▒▒▒▒░░░▒▒▒▒
-▒▒▀▄░═░▄▀▒▒▒▒▒▒░░░▒▒▒▒
-▒▒▐░▀▄▀░▌▒▒▒▒▒▒░░░▒▒▒▒
+![Esqueleto con flow](https://ibb.co/sFg0WNt)
