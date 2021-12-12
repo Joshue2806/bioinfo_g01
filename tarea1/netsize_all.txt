@@ -1,0 +1,177 @@
+n1.txt
+Filas: 97
+Columnas: 80
+n10.txt
+Filas: 14
+Columnas: 20
+n11.txt
+Filas: 270
+Columnas: 91
+n12.txt
+Filas: 7
+Columnas: 72
+n13.txt
+Filas: 61
+Columnas: 17
+n14.txt
+Filas: 35
+Columnas: 15
+n15.txt
+Filas: 38
+Columnas: 11
+n16.txt
+Filas: 118
+Columnas: 24
+n17.txt
+Filas: 76
+Columnas: 31
+n18.txt
+Filas: 13
+Columnas: 14
+n19.txt
+Filas: 10
+Columnas: 16
+n2.txt
+Filas: 62
+Columnas: 41
+n20.txt
+Filas: 18
+Columnas: 7
+n21.txt
+Filas: 19
+Columnas: 45
+n22.txt
+Filas: 19
+Columnas: 36
+n23.txt
+Filas: 179
+Columnas: 26
+n24.txt
+Filas: 80
+Columnas: 28
+n25.txt
+Filas: 17
+Columnas: 16
+n26.txt
+Filas: 82
+Columnas: 40
+n27.txt
+Filas: 27
+Columnas: 5
+n28.txt
+Filas: 90
+Columnas: 19
+n29.txt
+Filas: 61
+Columnas: 25
+n3.txt
+Filas: 25
+Columnas: 36
+n30.txt
+Filas: 8
+Columnas: 19
+n31.txt
+Filas: 28
+Columnas: 25
+n32.txt
+Filas: 45
+Columnas: 21
+n33.txt
+Filas: 70
+Columnas: 20
+n34.txt
+Filas: 79
+Columnas: 25
+n35.txt
+Filas: 14
+Columnas: 8
+n36.txt
+Filas: 40
+Columnas: 169
+n37.txt
+Filas: 44
+Columnas: 13
+n38.txt
+Filas: 51
+Columnas: 99
+n39.txt
+Filas: 33
+Columnas: 25
+n4.txt
+Filas: 101
+Columnas: 11
+n40.txt
+Filas: 28
+Columnas: 18
+n41.txt
+Filas: 12
+Columnas: 10
+n42.txt
+Filas: 42
+Columnas: 8
+n43.txt
+Filas: 55
+Columnas: 29
+n44.txt
+Filas: 56
+Columnas: 9
+n45.txt
+Filas: 36
+Columnas: 61
+n46.txt
+Filas: 58
+Columnas: 17
+n47.txt
+Filas: 139
+Columnas: 41
+n48.txt
+Filas: 118
+Columnas: 49
+n49.txt
+Filas: 47
+Columnas: 23
+n5.txt
+Filas: 21
+Columnas: 7
+n50.txt
+Filas: 45
+Columnas: 46
+n51.txt
+Filas: 8
+Columnas: 15
+n52.txt
+Filas: 33
+Columnas: 7
+n53.txt
+Filas: 34
+Columnas: 13
+n54.txt
+Filas: 126
+Columnas: 25
+n55.txt
+Filas: 14
+Columnas: 50
+n56.txt
+Filas: 110
+Columnas: 207
+n57.txt
+Filas: 14
+Columnas: 11
+n58.txt
+Filas: 678
+Columnas: 90
+n59.txt
+Filas: 663
+Columnas: 130
+n6.txt
+Filas: 9
+Columnas: 31
+n7.txt
+Filas: 16
+Columnas: 25
+n8.txt
+Filas: 19
+Columnas: 33
+n9.txt
+Filas: 12
+Columnas: 22
