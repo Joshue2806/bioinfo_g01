@@ -12,3 +12,6 @@ Repositorio de práctica, repaso y tareas de Bioinformática G01 en Ikiam. Estud
   -  Información será añadida después :shipit: :+1:  
 
 ¯\_( • ͜ʖ • )_/¯
+
+
+▒▒▄▀▀▀▀▀▄▒▒▒▒▒▄▄▄▄▄▒▒▒▒▐░▄░░░▄░▌▒▒▄█▄█▄█▄█▄▒▒▐░▀▀░▀▀░▌▒▒▒▒▒░░░▒▒▒▒▒▒▀▄░═░▄▀▒▒▒▒▒▒░░░▒▒▒▒▒▒▐░▀▄▀░▌▒▒▒▒▒▒░░░▒▒▒
