@@ -26,6 +26,6 @@ $ bash netsize_all.sh
 ../data/Saavedra2013/n13.txt 61 17
 ...
 ```
- **Esto se encuentra en el archivo *netsize_all.sh* y los resultados en *<netsize_all.txt>***
+ **Esto se encuentra en el archivo *<netsize_all.sh>* y los resultados en *<netsize_all.txt>***
 
 [^18]: Este ejercicio requiere escribir un bucle dentro de un guión.
