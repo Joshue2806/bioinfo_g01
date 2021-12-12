@@ -1,0 +1,3 @@
+Archivo seleccionado: n8.txt
+Número de filas: 19
+Número de columnas: 33
