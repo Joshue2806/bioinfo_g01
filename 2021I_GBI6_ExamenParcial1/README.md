@@ -2,9 +2,9 @@
 
 En este directorio se encuentra la información de los ejercicios realizados para el examen parcial.
 
-- En la carpeta *<.ipynb_checkpoints>* se encuentran los checkpoints automáticos que se crean por el archivo de Jupyter Notebook
-- En la carpeta *<data>* se encuentran las imágenes adjuntadas al archivo de Jupyter Notebook
-- En la carpeta *<test1>* se encuentran los archivos relacionados a los ejercicios 1 al 3
+- En la carpeta *<.ipynb_checkpoints>* se encuentran los checkpoints automáticos que se crean por el archivo de Jupyter Notebook.
+- En la carpeta *< data >* se encuentran las imágenes adjuntadas al archivo de Jupyter Notebook.
+- En la carpeta *< test1 >* se encuentran los archivos relacionados a los ejercicios 1 al 3.
 - En el archivo *<2021I_GBI6_ExamenParcial1.ipynb>* se encuentra el Jupyter Notebook del Examen Parcial 1.
 
 ##### Ejercicio 4 del libro Computing Skills for Biologists
