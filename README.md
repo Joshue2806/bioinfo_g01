@@ -7,7 +7,7 @@ Repositorio de práctica, repaso y tareas de Bioinformática G01 en Ikiam. Estud
 ## Ejercicios 
 
 ## Examen Parcial 1
-Ingrese a aquí al [Examen Parcial 1]()
+Ingrese a aquí al [Examen Parcial 1](https://github.com/Joshue2806/bioinfo_g01/tree/main/2021I_GBI6_ExamenParcial1)
 
 ## Clases
 - Clases en la página de [Youtube](https://www.youtube.com/playlist?list=PLdBCqyJM7Y73hfUh9ofszFa7LlpburahS)
