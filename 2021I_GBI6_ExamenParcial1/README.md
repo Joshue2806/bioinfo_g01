@@ -9,7 +9,7 @@ En este directorio se encuentra la información de los ejercicios realizados par
 
 ## Ejercicios de libro Computing Skills for Biologists
 
-##### Ejercicio 4 
+-  Ejercicio 4 
 ##### Ejercicio 1.10.1 - Datos de secuenciación de próxima generación
 
 En este ejercicio, trabajamos con datos de secuenciación de próxima generación (NGS). Unix es excelente para manipular los enormes archivos FASTA que se generan en los experimentos NGS.\
@@ -32,7 +32,7 @@ El conjunto de datos de NGS con el que trabajaremos fue publicado por Marra y De
 [^16]: Tenga en cuenta que el archivo de secuencia original es mucho más grande. Recortamos el archivo al 1% de su tamaño original para facilitar la descarga.
 
 
-##### Ejercicio 5 
+- Ejercicio 5 
 ##### Ejercicio 1.10.3 - Redes de plantas y polinizadores
 
 Saavedra y Stouffer (2013) estudiaron varias redes planta-polinizador. Estos se pueden representar como matrices rectangulares donde las filas son polinizadores, las columnas plantas, un 0 indica la ausencia y 1 la presencia de una interacción entre la planta y el polinizador.
