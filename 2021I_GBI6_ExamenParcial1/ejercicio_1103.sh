@@ -15,7 +15,7 @@ echo "Filas:" `wc -l < $file`;
 echo "Columnas:" `head -n 1 $file | tr -d " " | tr -d "\n" | wc -c`; 
 done 
 
-echo "Parte 3";
+echo "Parte 3"; #Usamos un archivo a parte solo con los resultados de la parte 2
 
 echo "Archivo con mayor número de filas:" `bash fil.sh | sort -n -r -k 2 | head -n 1`
 echo "Archivo con mayor número de columnas:" `bash fil.sh | sort -n -r -k 3 | head -n 1`
