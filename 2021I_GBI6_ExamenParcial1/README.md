@@ -24,5 +24,5 @@ El conjunto de datos de NGS con el que trabajaremos fue publicado por Marra y De
 7. ¿Qué contig tiene el mayor número de lecturas (numreads)? ¿Cuántas lecturas tiene?
 
 
-[^15]: Visite computingskillsforbiologists.com/fasta para obtener más detalles sobre el formato de archivo FASTA.
+[^15]: Visite [computingskillsforbiologists.com/fasta](computingskillsforbiologists.com/fasta) para obtener más detalles sobre el formato de archivo FASTA.
 [^16]: Tenga en cuenta que el archivo de secuencia original es mucho más grande. Recortamos el archivo al 1% de su tamaño original para facilitar la descarga.
