@@ -10,8 +10,8 @@ En este directorio se encuentra la información de los ejercicios realizados par
 ##### Ejercicio 4 del libro Computing Skills for Biologists
 ##### Ejercicio 1.10.1 - Datos de secuenciación de próxima generación
 
-En este ejercicio, trabajamos con datos de secuenciación de próxima generación (NGS). Unix es excelente para manipular los enormes archivos FASTA que se generan en los experimentos NGS.
-Los archivos FASTA contienen datos de secuencia en formato de texto. Cada segmento de secuencia está precedido por una descripción de una sola línea. El primer carácter de la línea de descripción es un signo de “mayor que” (>).[^15]
+En este ejercicio, trabajamos con datos de secuenciación de próxima generación (NGS). Unix es excelente para manipular los enormes archivos FASTA que se generan en los experimentos NGS.\
+Los archivos FASTA contienen datos de secuencia en formato de texto. Cada segmento de secuencia está precedido por una descripción de una sola línea. El primer carácter de la línea de descripción es un signo de “mayor que” (>).[^15]\
 El conjunto de datos de NGS con el que trabajaremos fue publicado por Marra y DeWoody (2014), quienes investigaron el repertorio inmunogenético de los roedores. Encontrará el archivo de secuencia Marra2014_data.fasta en el directorio CSB/unix/data. El archivo contiene segmentos de secuencia (contigs) de tamaño variable. La descripción de cada contig proporciona su longitud, el número de lecturas que contribuyeron al contig, su isogrupo (que representa la colección de productos de empalme alternativos de un posible gen) y el estado de isotig.
 
 1. Cambie el directorio a CSB/unix/sandbox.
