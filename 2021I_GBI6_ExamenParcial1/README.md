@@ -31,6 +31,8 @@ El conjunto de datos de NGS con el que trabajaremos fue publicado por Marra y De
 [^15]: Visite [computingskillsforbiologists.com/fasta](computingskillsforbiologists.com/fasta) para obtener más detalles sobre el formato de archivo FASTA.
 [^16]: Tenga en cuenta que el archivo de secuencia original es mucho más grande. Recortamos el archivo al 1% de su tamaño original para facilitar la descarga.
 
+###################################################
+
 ##### Ejercicio 5 
 ##### Ejercicio 1.10.3 - Redes de plantas y polinizadores
 
