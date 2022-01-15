@@ -62,6 +62,8 @@ $ bash netsize_all.sh
  
 3. ¿Qué archivo tiene el mayor número de filas? ¿Cuál tiene el mayor número de columnas?
 
+*Los comandos de este enunciado son diferentes a la respuesta debido a que aquí se realizó todo en un solo archivo
+
 **Esto se encuentra en el archivo *<ejercicio_1103.sh>***
 
 [^18]: Este ejercicio requiere escribir un bucle dentro de un guión.
