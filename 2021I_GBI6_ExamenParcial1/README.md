@@ -34,7 +34,7 @@ El conjunto de datos de NGS con el que trabajaremos fue publicado por Marra y De
 
 
 - **Ejercicio 5**
-##### Ejercicio 1.10.3 - Redes de plantas y polinizadores
+##### Ejercicio 1.10.3 - Plant–Pollinator Networks
 
 Saavedra y Stouffer (2013) estudiaron varias redes planta-polinizador. Estos se pueden representar como matrices rectangulares donde las filas son polinizadores, las columnas plantas, un 0 indica la ausencia y 1 la presencia de una interacción entre la planta y el polinizador.
     Los datos de Saavedra y Stouffer (2013) se pueden encontrar en el directorio
@@ -65,3 +65,5 @@ $ bash netsize_all.sh
 **Esto se encuentra en el archivo *<ejercicio_1103.sh>***
 
 [^18]: Este ejercicio requiere escribir un bucle dentro de un guión.
+
+<img src="https://i.ibb.co/LC0LNcv/64f167c9e2110e7eff1d51aad01c87-unscreen.gif" width="80">
