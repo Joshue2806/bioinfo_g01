@@ -6,6 +6,7 @@ En este directorio se encuentra la información de los ejercicios realizados par
 - En la carpeta *< data >* se encuentran las imágenes adjuntadas al archivo de Jupyter Notebook.
 - En la carpeta *< test1 >* se encuentran los archivos relacionados a los ejercicios 1 al 3.
 - En el archivo *<2021I_GBI6_ExamenParcial1.ipynb>* se encuentra el Jupyter Notebook del Examen Parcial 1.
+- Se adjunta el repositorio para responder la pregunta 6 y 7: [GBI6_ExamenParcial1](https://github.com/Joshue2806/GBI6_ExamenParcial1)
 
 ## Ejercicios de libro Computing Skills for Biologists
 
