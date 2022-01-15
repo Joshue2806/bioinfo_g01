@@ -66,4 +66,4 @@ $ bash netsize_all.sh
 
 [^18]: Este ejercicio requiere escribir un bucle dentro de un guión.
 
-<img src="https://i.ibb.co/LC0LNcv/64f167c9e2110e7eff1d51aad01c87-unscreen.gif" width="80">
+<img src="https://i.ibb.co/LC0LNcv/64f167c9e2110e7eff1d51aad01c87-unscreen.gif" width="170">
