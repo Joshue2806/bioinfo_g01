@@ -31,4 +31,4 @@ Se ha usado:
 ## Explicación de la data utilizada
 El documento del cual se obtiene la data para realizar el "Mapa de ciencias", está nombrado como *<pubmed-hagfish-set.txt>*, este se obtuvo tras realizar una búsqueda en PubMed con la palabra clave **hagfish**, haciendo alusión a los peces bruja de la familia _Myxinidae_.
 
-<img src="http://angelenamangieri.weebly.com/uploads/5/8/6/1/58610217/6901451_orig.gif" width="80">
+<img src="http://angelenamangieri.weebly.com/uploads/5/8/6/1/58610217/6901451_orig.gif" width="170">
