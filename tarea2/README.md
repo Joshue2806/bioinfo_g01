@@ -29,7 +29,7 @@ Se ha usado:
 - Jupyter Notebook - Versión: 6.3.0
 
 ## Explicación de la data utilizada
-El documento del cual se obtiene la data para realizar el "Mapa de ciencias", está nombrado como *<pubmed-hagfish-set.txt>*, este se obtuvo tras realizar una búsqueda en PubMed con la palabra clave **hagfish**, haciendo alusión a los peces bruja de la familia _Myxinidae_.
-Los datos referentes a la ubicaciones en longitud y latitud fueron obtenidos de la página recomendada en las intrucciones
+El documento del cual se obtiene la data para realizar el "Mapa de ciencias", está nombrado como *<pubmed-hagfish-set.txt>*, este se obtuvo tras realizar una búsqueda en PubMed con la palabra clave **hagfish**, haciendo alusión a los peces bruja de la familia _Myxinidae_. Los datos referentes a la ubicaciones en longitud y latitud fueron obtenidos de la página recomendada en las intrucciones. **Ambos documentos estan en la carpeta data**
+**La resolución del ejercicio está en <_MapOfScience_hagfish.ipynb_>**
 
 <img src="http://angelenamangieri.weebly.com/uploads/5/8/6/1/58610217/6901451_orig.gif" width="440">
