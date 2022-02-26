@@ -30,6 +30,7 @@ Sistema operativo: | Windows 10 Home
 Se ha usado:
 - Gitbash (git push) - Versión: 2.34.0.windows.1
 - Jupyter Notebook - Versión: 6.3.0
+- Excel (documento csv de las coordenadas) - Versión: versión 2201 compilación 16.0.14827.20180
 
 ## Explicación de la data utilizada
 El documento del cual se obtiene la data para realizar el "Mapa de ciencias", está nombrado como *<pubmed-hagfish-set.txt>*, este se obtuvo tras realizar una búsqueda en PubMed con la palabra clave **hagfish**, haciendo alusión a los peces bruja de la familia _Myxinidae_. Los datos referentes a la ubicaciones en longitud y latitud fueron obtenidos de la página recomendada en las intrucciones. **Ambos documentos estan en la carpeta data**
