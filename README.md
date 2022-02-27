@@ -4,6 +4,7 @@ Repositorio de práctica, repaso y tareas de Bioinformática G01 en Ikiam. Estud
 ## Tareas
 - Ingresa a la tarea 1 aquí: [Tarea 1](https://github.com/Joshue2806/bioinfo_g01/tree/main/tarea1)
 - Ingresa a la tarea 2 aquí: [Tarea 2](https://github.com/Joshue2806/bioinfo_g01/tree/main/tarea2)
+- Ingresa a la tarea 3 aquí: [Tarea 3](https://github.com/Joshue2806/IntroduccionR)
 
 ## Ejercicios 
 
