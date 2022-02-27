@@ -2,7 +2,7 @@
 
 **Estudiante:** Joshué Ruiz
 
-Aqui se muestran las instrucciones de la tarea.
+Aquí se muestran las instrucciones de la tarea.
 
 * * *
 
